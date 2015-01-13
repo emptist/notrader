@@ -1,0 +1,36 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+accounts-base
+accounts-password
+coffeescript
+jquery
+email
+mizzao:bootstrap-3
+iron:dynamic-template
+aldeed:autoform
+alethes:pages
+mquandalle:jade
+mizzao:user-status
+meteor-platform
+dburles:collection-helpers
+aslagle:reactive-table
+mrt:moment
+sacha:spin
+alanning:roles
+mrt:accounts-ui-bootstrap-3-blaze
+yogiben:autoform-modals
+aldeed:collection2
+chrismbeckett:fontawesome4
+yogiben:admin
+cfs:standard-packages
+cfs:gridfs
+cfs:filesystem
+yogiben:autoform-file
+iron:core
+perak:user-roles
+iron:router
